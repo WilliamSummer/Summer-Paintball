@@ -1,0 +1,174 @@
+h1
+
+
+
+{
+
+	margin: 0 47.5%;
+
+	color: #027495;
+
+
+
+}
+
+
+
+nav ul li{
+
+	display: inline;
+
+	margin: 0 17% 0 0;
+
+}
+
+nav{
+
+	 margin: 5% 10% 0 11%;
+}
+
+
+
+nav a {
+
+
+	display: inline-block;
+
+
+
+	text-decoration: none;
+
+
+
+	font-size: 1.2em;
+
+
+
+	color: #ffffff;
+
+
+
+	padding: 10px 20px;
+	
+	
+
+
+
+	background: #ff932d;
+
+
+
+	border-radius: 5px;
+
+
+
+	border: 1px solid #c95e00;
+
+
+
+	box-shadow: inset 0px 1px 0px rgba(255,255,255,0.7);
+
+
+
+	text-shadow:
+
+
+
+		0px -1px 1px rgba(000,000,000,0.2),
+
+
+
+		0px 1px 0px rgba(255,255,255,0.3);
+
+
+
+}
+
+
+
+body
+
+
+
+{
+
+	padding: 0 0 0 0;
+
+	background: #f4f5f5;
+
+
+
+}
+
+#picture img
+
+{
+
+	height: 30%;
+
+	width: 40%;
+
+}
+
+#picture
+
+{
+
+	margin: 0 10% 0 25%;
+
+}
+
+#info, li, h3, h2
+
+{
+
+	margin: 0 35% 0 35%;
+
+}
+
+footer
+
+{
+
+	margin-top: 10%;
+
+}
+
+#fieldset
+
+{
+
+	margin: 5% 0 10% 0;
+
+}
+
+#asideleft
+{
+	background-color: grey;
+	float: left;
+	border: 5px solid black;
+	height: 60%;
+	width: 20%;
+
+}
+#asideright
+{
+float: right;
+background-color: grey;
+border: 5px solid black;
+height: 60%;
+width: 20%;
+}
+
+header
+{
+	background-color: grey;
+	margin: 0 0 0 0; 
+}
+#logo
+{
+	height: 5%;
+	width: 10%;
+	float: left;
+	margin: 0 0 0 0;
+}
